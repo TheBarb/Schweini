@@ -1,0 +1,22 @@
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-itmes: center;
+    
+    
+   
+  }
+  
+  #schweini {
+    height: 75vh;
+    width: auto;
+    margin-top: 150px;
+  display: block;
+  border-style: hidden;
+  border-radius: 100%;
+  }
+    
+  
+    
