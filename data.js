@@ -1,1 +1,1 @@
-let pictures = ['images/nackt.jpg','images/t-shirt.jpg', 'images/hose.jpg', 'images/blumejpg', 'images/hose-aus.jpg','images/t-shirt-aus','images/nackt','images/popo.jpg'];
+let pictures = ['images/nackt.jpg','images/t-shirt.jpg', 'images/hose.jpg', 'images/blume.jpg', 'images/hose-aus.jpg','images/t-shirt-aus.jpg','images/nackt.jpg','images/popo.jpg'];
