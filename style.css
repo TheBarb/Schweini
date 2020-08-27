@@ -1,5 +1,7 @@
 
-
+body {
+  margin: 0;
+}
 .container {
     background-image: url(images/wiese.jpg);
     background-repeat: no-repeat;
